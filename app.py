@@ -1,2 +1,2 @@
-print("Hello, Andrew")
+print("Hello, Maxim")
 print("Гуччи линзы на глазах")
